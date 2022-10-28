@@ -1,16 +1,18 @@
-### Hi there 👋
+## ______________________________ Hi there 👋, I'm Sagar Charaniya ______________________________
 
-<!--
-**1sagarcharaniya1/1sagarcharaniya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+                                              A passionate Data Scientist from India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+
+- 🔭 I’m currently working on Data Science Project's
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to collaborate on any DS Project
+- 🤔 I’m looking for help with Pyhton
+- 💬 Ask me about Pyhton
+- 📫 How to reach me: sagarcharaniya11@outlook.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> Love and Support
+- ⚡ Fun fact: print("Hello World!")
+
+### Connect With Me:
+
