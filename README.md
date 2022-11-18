@@ -11,6 +11,7 @@
 - 🤔 I’m looking for help with Pyhton
 - 💬 Ask me about Pyhton
 - 📫 How to reach me: sagarcharaniya11@outlook.com
+- 📫 How to reach me: ig @sagar_charaniya11
 - 😄 Pronouns: Love <3
 - ⚡ Fun fact: print("Hello World!")
 
