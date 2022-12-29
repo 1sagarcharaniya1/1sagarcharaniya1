@@ -1,4 +1,4 @@
-## ______________________________ Hi there 👋, I'm Sagar Charaniya ______________________________
+## _________________________ Hi there 👋, I'm Sagar Charaniya _________________________
 
 
                                               A passionate Data Scientist from India
